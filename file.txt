@@ -1,7 +1,4 @@
 ossddddddddddddddddddddddddddddddddsssssss
 ssssssssssssssssssssssssssssssssssssssssss
-<<<<<<< HEAD
 pppppppppppppppppppppppppppppppppppppppppp
-=======
 dddddddddddddddddddddddddddddddddddddddddd
->>>>>>> user
